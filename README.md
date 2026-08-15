@@ -1,28 +1,18 @@
-# SQL HackerRank Practice
+# SQL-HackerRank-Practice
 
 A collection of SQL problems and solutions practiced on HackerRank as part of my Data Analyst interview preparation.
 
 ## Topics Covered
 
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
+- SELECT and WHERE
+- ORDER BY and GROUP BY
 - Aggregate Functions
+- String Functions
+- CASE WHEN
 - INNER JOIN
 - LEFT JOIN
-- RIGHT JOIN
-- SELF JOIN
+- Self JOIN
 - Subqueries
-- EXISTS
-- NOT EXISTS
-- IN / NOT IN
-- Correlated Subqueries
 - CTEs
-- CASE Statements
 - Window Functions
-
-## Purpose
-
-This repository documents my SQL practice and problem-solving journey while preparing for Data Analyst and Business Analyst roles.
+- Data Filtering and Sorting
